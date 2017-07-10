@@ -1,5 +1,7 @@
 # XDMDemo
 
+Demo showing how to send data from a webpage to a Hootsuite Campaigns iFrame.
+
 ## Develop
 
 ```sh
